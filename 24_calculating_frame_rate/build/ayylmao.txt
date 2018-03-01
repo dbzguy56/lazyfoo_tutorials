@@ -1,0 +1,2 @@
+Failed to load lazy font! SDL_ttf Error: Couldn't open lazy.ttf
+Failed to load media!

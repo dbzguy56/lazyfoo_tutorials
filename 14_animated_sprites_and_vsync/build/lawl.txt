@@ -1,0 +1,2 @@
+Renderer could not be created! SDL Error: Renderer already associated with window
+Failed to initialize!

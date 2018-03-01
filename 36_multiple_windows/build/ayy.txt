@@ -1,0 +1,3 @@
+Unable to create texture from window.png! SDL Error: Invalid renderer
+Failed to load window texture!
+Failed to load media!

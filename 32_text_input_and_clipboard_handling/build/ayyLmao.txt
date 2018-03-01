@@ -1,0 +1,2 @@
+Failed to load lazy font! SDL_ttf Error: Couldn't open 32_text_input_and_clipboard_handling/lazy.ttf
+Failed to load media!
